@@ -1,0 +1,21 @@
+Nama  : Ridho Ilham Budiantoro
+Gugus : Java
+
+Figma adalah sebuah aplikasi desain berbasis web yang memungkinkan pengguna membuat, mengedit, dan 
+berkolaborasi pada berbagai jenis desain, mulai dari UI/UX aplikasi, hingga projek interaktif. 
+Figma punya salah satu keunggulan yaitu, bisa mengerjakan proyek secara real time, sehingga cocok untuk 
+mengerjakan proyek bersama tim tanpa harus kirim file bolak-balik. Figma juga berbasis cloud, sehingga bisa auto save'
+Figma juga adalah aplikasi desain berbasis vektor, sehingga saat desain di zoom tidak blur atau turun kualitasnya
+seperti pixel, vektor adalah garis, kurva , dan titik koordinat.
+
+Kelebihan Figma:
+1. Berbasis cloud
+2. Kolaborasi real-time
+3. Cross-platform
+4. Berbasis vektor
+5. Mudah diunakan oleh pemula
+6. Populer
+7. Banyak digunakan oleh perusahan besar
+8. Komunitas global dengan banyak user aktif
+9. Banyak plugin gratis
+10. Auto Save
